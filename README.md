@@ -1,5 +1,5 @@
 - Hi, I’m @yuds2002
-- I'm a 2nd year student at The University of Cape Town
+- I'm a 3rd year student at The University of Cape Town
 - I'm working towards my CS degree
 - I'm interested statistics and game dev
 - I would like to work in Data Science or Game Development
